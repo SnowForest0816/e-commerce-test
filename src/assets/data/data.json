@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 2,
+    "name": "iPad",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 3,
+    "name": "MacBook",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 4,
+    "name": "Dell",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 5,
+    "name": "Acer",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 6,
+    "name": "Apple",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 7,
+    "name": "Ubuntu",
+    "price": 19.99,
+    "amount": 0
+  },
+  {
+    "id": 8,
+    "name": "Linux",
+    "price": 19.99,
+    "amount": 0
+  }
+]
